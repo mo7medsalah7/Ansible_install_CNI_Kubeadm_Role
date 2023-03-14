@@ -1,0 +1,12 @@
+---
+dependencies: []
+
+galaxy_info:
+  role_name: Install CNI - network plugin
+  author: Mohamed Salah
+  description: install cni - network plugin (flannel)
+  galaxy_tags:
+    - cni
+    - flannel
+    - network plugin
+
